@@ -10,7 +10,6 @@
 
 - 👨‍💻 I’m interested in UI/UX Designing, Frontend development...
 - 🌱 I’m currently learning React, JavaScript...
-- 👨‍💻 [angelacharya.com.np](angelacharya.com.np)
 - 📫 How to reach me **asmitacharya241@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
